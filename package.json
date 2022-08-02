@@ -1,0 +1,22 @@
+{
+  "name": "introduction-javascript-0802",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morcsanyitamas/introduction-javascript-0802.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morcsanyitamas/introduction-javascript-0802/issues"
+  },
+  "homepage": "https://github.com/morcsanyitamas/introduction-javascript-0802#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
